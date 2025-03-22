@@ -1,7 +1,7 @@
 ﻿body {  
     font-family: Arial, sans-serif;  
     /* Menggunakan gambar latar belakang */  
-    background: url('https://unsplash.com/photos/a-person-standing-in-the-middle-of-a-desert--r6dY2y1FyE') no-repeat center center fixed;  
+    background: url('https://images.unsplash.com/photo-1533628635777-112b2239b1c7?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') no-repeat center center fixed;  
     background-size: cover;   
     margin: 0;  
     padding: 20px;  
